@@ -1,6 +1,7 @@
 Create the BANKING SYSTEM using JAVA SWINGS & MYSQL Database  
 
 Project Modules: There are 5 modules in this Banking System project.
+
 1- Login page and Register Page
 2- Add Account Balance
 3- Instant Payment Transfer
